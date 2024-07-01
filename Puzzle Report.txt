@@ -1,0 +1,3 @@
+Your Puzzle Report is as follow : 
+	 Your total moves are : 12
+	 Your moves from initial to goal state is as follow :   RIGHT	UP	LEFT	DOWN	RIGHT	UP	LEFT	LEFT	DOWN	RIGHT	UP	

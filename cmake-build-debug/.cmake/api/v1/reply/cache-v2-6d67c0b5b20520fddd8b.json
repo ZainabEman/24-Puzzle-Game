@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "e:/SE-A/1A/Programming F/P.Fundamental Lab/PF Project/cmake-build-debug"
+			"value" : "e:/SE/Projects/24 Puzzle game/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "E:/SE-A/1A/Programming F/P.Fundamental Lab/PF Project/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "E:/SE/Projects/24 Puzzle game/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "E:/SE-A/1A/Programming F/P.Fundamental Lab/PF Project"
+			"value" : "E:/SE/Projects/24 Puzzle game"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "E:/SE-A/1A/Programming F/P.Fundamental Lab/PF Project/cmake-build-debug"
+			"value" : "E:/SE/Projects/24 Puzzle game/cmake-build-debug"
 		},
 		{
 			"name" : "PF_Project_IS_TOP_LEVEL",
@@ -1287,7 +1287,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "E:/SE-A/1A/Programming F/P.Fundamental Lab/PF Project"
+			"value" : "E:/SE/Projects/24 Puzzle game"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

